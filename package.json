@@ -11,6 +11,7 @@
     "typescript": "^3.4.5"
   },
   "scripts": {
-    "start": "jest"
+    "start": "jest",
+    "test": "jest"
   }
 }
